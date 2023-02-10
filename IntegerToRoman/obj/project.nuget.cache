@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OaqTyrT1e7eCU0IeJh30MNmwhab4gt7WJ0gU0cfCxNhjouDsQ005rITFAY2ZhWBL3r5x5cayg4t5KYTZWxnuMw==",
+  "dgSpecHash": "I4mPD3h0iTZIAKkL7R2Y9Yv61G8D7JyetiWQIP468yMq1T8BKUNRV0SjCfUdth6NMIPjt5A5drOoVIlGEcULUg==",
   "success": true,
-  "projectFilePath": "/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/IntegerToRoman.csproj",
+  "projectFilePath": "/Users/novo/Desktop/TECNOLOGIA/GITHUB/LeetCode/IntegerToRoman/IntegerToRoman.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

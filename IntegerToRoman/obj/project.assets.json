@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/IntegerToRoman.csproj",
+      "projectUniqueName": "/Users/novo/Desktop/TECNOLOGIA/GITHUB/LeetCode/IntegerToRoman/IntegerToRoman.csproj",
       "projectName": "IntegerToRoman",
-      "projectPath": "/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/IntegerToRoman.csproj",
+      "projectPath": "/Users/novo/Desktop/TECNOLOGIA/GITHUB/LeetCode/IntegerToRoman/IntegerToRoman.csproj",
       "packagesPath": "/Users/novo/.nuget/packages/",
-      "outputPath": "/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/obj/",
+      "outputPath": "/Users/novo/Desktop/TECNOLOGIA/GITHUB/LeetCode/IntegerToRoman/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/novo/.nuget/NuGet/NuGet.Config"
