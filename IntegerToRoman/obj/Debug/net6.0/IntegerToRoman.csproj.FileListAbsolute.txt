@@ -1,0 +1,15 @@
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/bin/Debug/net6.0/IntegerToRoman
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/bin/Debug/net6.0/IntegerToRoman.deps.json
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/bin/Debug/net6.0/IntegerToRoman.runtimeconfig.json
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/bin/Debug/net6.0/IntegerToRoman.dll
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/bin/Debug/net6.0/IntegerToRoman.pdb
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/obj/Debug/net6.0/IntegerToRoman.csproj.AssemblyReference.cache
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/obj/Debug/net6.0/IntegerToRoman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/obj/Debug/net6.0/IntegerToRoman.AssemblyInfoInputs.cache
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/obj/Debug/net6.0/IntegerToRoman.AssemblyInfo.cs
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/obj/Debug/net6.0/IntegerToRoman.csproj.CoreCompileInputs.cache
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/obj/Debug/net6.0/IntegerToRoman.dll
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/obj/Debug/net6.0/refint/IntegerToRoman.dll
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/obj/Debug/net6.0/IntegerToRoman.pdb
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/obj/Debug/net6.0/IntegerToRoman.genruntimeconfig.cache
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/IntegerToRoman/obj/Debug/net6.0/ref/IntegerToRoman.dll
