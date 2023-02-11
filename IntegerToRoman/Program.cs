@@ -1,5 +1,5 @@
 ﻿//Maximum value to convert is 3999
-Console.WriteLine("*** ROMAN TO INTEGER CONVERTER ***\n");
+Console.WriteLine("*** INTEGER TO ROMAN CONVERTER ***\n");
 
 int thousand, hundred, ten, unit, i, j;
 string romanThousand = "", romanHundred = "", romanTen = "", romanUnit = "";
