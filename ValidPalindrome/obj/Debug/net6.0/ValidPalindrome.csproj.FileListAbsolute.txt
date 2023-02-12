@@ -1,0 +1,15 @@
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/ValidPalindrome/bin/Debug/net6.0/ValidPalindrome
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/ValidPalindrome/bin/Debug/net6.0/ValidPalindrome.deps.json
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/ValidPalindrome/bin/Debug/net6.0/ValidPalindrome.runtimeconfig.json
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/ValidPalindrome/bin/Debug/net6.0/ValidPalindrome.dll
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/ValidPalindrome/bin/Debug/net6.0/ValidPalindrome.pdb
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/ValidPalindrome/obj/Debug/net6.0/ValidPalindrome.csproj.AssemblyReference.cache
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/ValidPalindrome/obj/Debug/net6.0/ValidPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/ValidPalindrome/obj/Debug/net6.0/ValidPalindrome.AssemblyInfoInputs.cache
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/ValidPalindrome/obj/Debug/net6.0/ValidPalindrome.AssemblyInfo.cs
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/ValidPalindrome/obj/Debug/net6.0/ValidPalindrome.csproj.CoreCompileInputs.cache
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/ValidPalindrome/obj/Debug/net6.0/ValidPalindrome.dll
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/ValidPalindrome/obj/Debug/net6.0/refint/ValidPalindrome.dll
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/ValidPalindrome/obj/Debug/net6.0/ValidPalindrome.pdb
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/ValidPalindrome/obj/Debug/net6.0/ValidPalindrome.genruntimeconfig.cache
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/ValidPalindrome/obj/Debug/net6.0/ref/ValidPalindrome.dll
