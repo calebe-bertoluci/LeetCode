@@ -1,6 +1,7 @@
 
-<b><h2>Integer To Roman</h2></b>
-Given a roman number, convert it to an integer numberal.
+<b><h2>Valid Palindrome</h2></b>
+
+A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
 <b>⬇️ output:</b>
 
